@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ##  File Structure
 
 - `prompt.ipynb`: Main notebook for analysis and modeling
-- `coupons.csv`: Dataset file (not included here; upload manually)
+- `data/coupons.csv`: Dataset file 
 - `README.md`: Project overview and documentation
 
 ---
